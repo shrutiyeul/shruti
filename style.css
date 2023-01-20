@@ -1,0 +1,25 @@
+.main{
+    width:100vw;
+    min-height : 100vw;
+    background-color: antiquewhite;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.calculator{
+    background-color: antiquewhite;
+    border-radius: 2rem;
+    box-shadow: 2px 2px 5px black
+    width:20rem;
+    height: 30rem;
+    padding: 1rem;
+    border: 1px solid black;
+}
+.display{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+}
+    
+    
